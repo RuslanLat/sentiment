@@ -1,0 +1,1 @@
+{"provider": "postgres", "user": "yhpqgsqn", "password": "QlUKmpDTuLxRHGvRPKkoRvMb95Q4YTrG", "host": "abul.db.elephantsql.com", "database": "yhpqgsqn", "port": "5432"}

@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+/data/test/*
+/data/train/*
+*.csv
+*.vocab
+imdbEr.txt
